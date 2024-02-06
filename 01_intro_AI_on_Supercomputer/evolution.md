@@ -7,7 +7,7 @@
 </p>
 
 ## Counting rods
-Counting rods were used in China for calculation. They are typically 3–14 cm (1" to 6") long, made with banboo, placed either horizontally or vertically to represent any integer or rational number.
+Counting rods were used in China for calculation. They are typically 3–14 cm (1" to 6") long, made with bamboo, placed either horizontally or vertically to represent any integer or rational number.
 
 <p float="center">
   <img src="figures/calc_sticks.png" width="300" />
